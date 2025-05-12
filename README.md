@@ -38,7 +38,7 @@ For complete usage instructions, type:
                         sandpiper-saas --help
 
 
-### Convert the CPU's TL-Verilog file to Verilog file
+## Convert the CPU's TL-Verilog file to Verilog file
 
 Clone the repository:
 
