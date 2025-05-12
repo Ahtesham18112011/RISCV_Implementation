@@ -94,5 +94,5 @@ To check the output od the CPU. We need 8 LEDs. Connect the jumper wires as
 | 3    |  Reset  | 
 | 4   |  LED 8  | 
 
-
+The Assembly code given on the CPU, as we know, adds the nunmers between 1 and 9 (including 1 and 9) so here the output will be 1+2+3+4+5+6+7+8+9 = 45 (binary 00101101). Therefore only the 4 LEDs (represented by 1s) will glow.
 
