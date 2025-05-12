@@ -11,7 +11,7 @@ To install Sandpiper SaaS it is good to install it from virtual Linux software. 
 
   1. Go to the Linux terminal and type:
 
-        pip3 install sandpiper-saas
+            pip3 install sandpiper-saas
 
 **OR**
 
