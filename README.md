@@ -45,10 +45,7 @@ Clone the repository:
                         git clone https://github.com/Ahtesham18112011/RISCV_Implementation.git
                         
 
-Then type 
 
-                        cd codes
-                        
 You will see a file named riscv.tlv, to convert it to verilog. type:
 
                          sandpiper-saas -i riscv.tlv -o riscv.v
