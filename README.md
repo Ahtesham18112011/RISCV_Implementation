@@ -49,7 +49,7 @@ You will see a file named riscv.tlv, to convert it to verilog. type:
                          sandpiper-saas -i riscv.tlv -o riscv.v
 
 > [!NOTE]
-> If you want to convert the TL-Verilog file to System Verilog in other cases just remove the `-p verilog` option in the first line of the TL-Verilog code.
+> If you want to convert the TL-Verilog file to System Verilog in other cases, just remove the `-p verilog` option in the first line of the TL-Verilog code.
 
 
 
