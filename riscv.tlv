@@ -115,7 +115,7 @@
          $is_bltu = $dec_bits ==? 11'bx_110_1100011;
          $is_bgeu = $dec_bits ==? 11'bx_111_1100011;
          $is_addi = $dec_bits ==? 11'bx_000_0010011;
-         $is_add = $dec_bits ==   11'b0_000_0110011;
+         $is_add = $dec_bits ==?   11'b0_000_0110011;
          $is_load = $dec_bits ==?   11'bx_xxx_0000011;
          $is_lui = $dec_bits ==?   11'bx_xxx_0110111;
          $is_auipc = $dec_bits ==?   11'bx_xxx_0010111;
