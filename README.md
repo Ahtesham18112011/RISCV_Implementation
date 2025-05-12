@@ -98,4 +98,4 @@ The Assembly code given in the CPU, as we know, adds the nunmers between 1 and 9
 
 
 
-<img src="https://github.com/user-attachments/assets/96f95ea6-0357-4750-bcc7-756a6dfd561d" alt="Image Description" width="500" />
+<img src="https://github.com/user-attachments/assets/96f95ea6-0357-4750-bcc7-756a6dfd561d" alt="Image Description" width="600" />
