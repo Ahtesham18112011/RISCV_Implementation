@@ -9,7 +9,7 @@ SandPiper SaaS(Software as a Service) Edition runs [Redwood EDA LLC's](https://w
 
 To install Sandpiper SaaS it is good to install it from virtual Linux software. Installing Sandpiper from Linux can be beneficial because it's a tool primarily designed for use within Linux environments and can be more easily adapted and integrated with other Linux systems and applications.
 
-  1. Go to the Linux terminal and type:
+1. Go to the Linux terminal and type:
 
             pip3 install sandpiper-saas
 
