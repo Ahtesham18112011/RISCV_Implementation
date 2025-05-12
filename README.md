@@ -54,10 +54,32 @@ You will see a file named riscv.tlv, to convert it to verilog. type:
 > 1. There are all the necessary files in my repo and when you will clone it you will also have all the necassary files. So you do not need to worry about if your code is not converting to Verilog. 
 > 2. If you want to convert the TL-Verilog file to System Verilog in other cases, just remove the `-p verilog` option in the first line of the TL-Verilog code.
 
+## Implementing the RISC-V core in the VSDSquadronFM FPGA
+
+1. After cloning  the  repository type:
+
+                        cd codes
+
+2. Open the terminal and go  to the codes directory by typing:
+
+                        cd <yourdirectory/codes>
+
+3. Then type:
+
+                          make build
+
+4. Make sure you have connected the [VSDSquadronFM](https://www.vlsisystemdesign.com/vsdsquadronfm/) board to the virtual machine. Click on the devices button on the top left corner and select FTDI. Ans check it by typing:
+
+                        lsusb
+
+5. Then type:
+
+                        sudo make flash
 
 
+## Check the output
 
-
+To check the output od the CPU. We need 8 LEDs.
 
 
 
