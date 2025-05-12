@@ -1,4 +1,4 @@
-# Implementation of the [RISC-V](https://github.com/Ahtesham18112011/RISCV_MYTH) core in VSDSquadron FPGA Mini
+# Implementation of the [RISC-V](https://github.com/Ahtesham18112011/RISCV_MYTH) core in [VSDSquadron FPGA Mini](https://github.com/Ahtesham18112011/VSDSquadron_FM)
 
 To implement the Transaction Level - Verilog (TL-Verilog) code to the FPGA is directly not possible we need to first convert the code to Verilog which is done by a software called **Sandpiper SaaS**.
 
