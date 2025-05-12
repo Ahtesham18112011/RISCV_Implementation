@@ -83,7 +83,7 @@ This will implement the files in the FPGA chip.
 
 ## Check the output
 
-To check the output od the CPU. We need 8 LEDs. Connect the jumper wires as 
+To check the output of the CPU. We need 8 LEDs. Connect the jumper wires as 
 
 |FPGA pins | External connections |
 |------------------|-----------------
