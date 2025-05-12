@@ -46,7 +46,7 @@ Clone the repository:
                         
 
 
-You will see a file named riscv.tlv, to convert it to verilog. type:
+You will see a file named riscv.tlv, to convert it to verilog, type:
 
                          sandpiper-saas -i riscv.tlv -o riscv.v
 
