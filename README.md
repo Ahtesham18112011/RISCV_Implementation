@@ -9,7 +9,7 @@ SandPiper SaaS(Software as a Service) Edition runs [Redwood EDA LLC's](https://w
 
 To install Sandpiper SaaS it is good to install it from virtual Linux software. Installing Sandpiper from Linux can be beneficial because it's a tool primarily designed for use within Linux environments and can be more easily adapted and integrated with other Linux systems and applications.
 
-1. Go to the Linux terminal and type:
+Go to the Linux terminal and type:
 
             pip3 install sandpiper-saas
 
@@ -24,3 +24,26 @@ from the git repository itself:
                 git clone git@gitlab.com:rweda/sandpiper-saas.git
                 cd sandpiper-saas
                 pip3 install 
+
+
+### Basic Usage
+
+On an existing TL-Verilog source file, type this in terminal:
+
+                        sandpiper-saas -i design.tlv -o design.sv
+
+
+For complete usage instructions, type:
+
+                        sandpiper-saas --help
+
+
+
+
+
+
+
+
+
+
+
