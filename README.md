@@ -62,7 +62,7 @@ You will see a file named riscv.tlv, to convert it to verilog. type:
 
 2. Open the terminal and go  to the codes directory by typing:
 
-                        cd <yourdirectory/codes>
+                        cd codes
 
 3. Then type:
 
