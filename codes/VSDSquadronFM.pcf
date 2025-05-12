@@ -1,0 +1,11 @@
+
+set_io  clk    2
+set_io  reset  3
+set_io  out[0] 42
+set_io  out[1] 43
+set_io  out[2] 44
+set_io  out[3] 45
+set_io  out[4] 46
+set_io  out[5] 47
+set_io  out[6] 48
+set_io  out[7] 4
