@@ -81,7 +81,7 @@ You will see a file named riscv.tlv, to convert it to verilog. type:
 
 To check the output od the CPU. We need 8 LEDs. Connect the jumper wires as 
 
-|FPGA pins | Column 2 Header |
+|FPGA pins | External connections |
 |------------------|-----------------
 |42    | LED 1    | 
 | 43    | LED 2     | 
