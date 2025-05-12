@@ -13,11 +13,11 @@ To install Sandpiper SaaS it is good to install it from virtual Linux software. 
 
         pip3 install sandpiper-saas
 
-   **OR**
+    **OR**
 
     You can install it from its official website. [SandPiper-SaaS](https://pypi.org/project/sandpiper-saas/). After instaling (from website) unzip the file.
 
-   **OR**
+    **OR**
 
     from the git repository itself:
 
