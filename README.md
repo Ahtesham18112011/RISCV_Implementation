@@ -42,6 +42,8 @@ For complete usage instructions, type:
 
 Clone the repository:
 
+                        git clone https://github.com/Ahtesham18112011/RISCV_Implementation.git
+
 
 
 
