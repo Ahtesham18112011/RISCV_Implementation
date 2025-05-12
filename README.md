@@ -56,11 +56,11 @@ You will see a file named riscv.tlv, to convert it to verilog, type:
 
 ## Implementing the RISC-V core in the VSDSquadronFM FPGA
 
-1. After cloning  the  repository type:
+1. clone my repository 
 
-                        cd codes
+                        
 
-2. Open the terminal and go  to the codes directory by typing:
+2. Open the terminal and go to the codes directory by typing:
 
                         cd codes
 
@@ -68,14 +68,18 @@ You will see a file named riscv.tlv, to convert it to verilog, type:
 
                           make build
 
-4. Make sure you have connected the [VSDSquadronFM](https://www.vlsisystemdesign.com/vsdsquadronfm/) board to the virtual machine. Click on the devices button on the top left corner and select FTDI. Ans check it by typing:
+
+This will build the required json,asc,timings etc. files
+
+4. Make sure you have connected the [VSDSquadronFM](https://www.vlsisystemdesign.com/vsdsquadronfm/) board to the virtual machine. Click on the devices button on the top left corner and select FTDI. And check it by typing:
 
                         lsusb
 
-5. Then type:
+5. Then type this after `make build`:
 
                         sudo make flash
 
+This will implement the files in the FPGA chip.
 
 ## Check the output
 
