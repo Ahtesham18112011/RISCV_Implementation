@@ -44,11 +44,12 @@ Clone the repository:
 
                         git clone https://github.com/Ahtesham18112011/RISCV_Implementation.git
 
-You will see a file named riiscv.tlv, to convert it to verilog type:
+You will see a file named riscv.tlv, to convert it to verilog. type:
 
                          sandpiper-saas -i riscv.tlv -o riscv.v
 
-
+> [!NOTE]
+> If you want to convert the TL-Verilog file to System Verilog in other cases just remove the `-p verilog` option in the first line of the TL-Verilog code.
 
 
 
